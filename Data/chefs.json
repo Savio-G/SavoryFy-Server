@@ -4,7 +4,7 @@
     "name": "Rakibul Hasan",
     "years_of_experience": 10,
     "bio": "Rakibul Hasan is a renowned Bengali chef who has been cooking for over 10 years. He is known for his innovative take on traditional Bengali cuisine. He is also a passionate advocate for sustainable food practices.",
-    "image_url": "",
+    "image_url": "https://i.ibb.co/QjbvpjQ/chef-1-transformed.png",
     "recipes": [
       {
         "recipe_name": "Pitha Jalebi",
@@ -31,10 +31,10 @@
   },
   {
     "id": 2,
-    "name": "Sumaiya Akhter",
+    "name": "Terrance Costa",
     "years_of_experience": 7,
-    "bio": "Sumaiya Akhter is a rising star in the Bengali culinary scene. She is known for her creative and flavorful dishes, which often incorporate traditional Bengali ingredients with modern techniques. She is also a strong advocate for gender equality in the kitchen.",
-    "image_url": "",
+    "bio": "Terrance Costa is a rising star in the Bengali culinary scene. She is known for her creative and flavorful dishes, which often incorporate traditional Bengali ingredients with modern techniques. She is also a strong advocate for gender equality in the kitchen.",
+    "image_url": "https://i.ibb.co/SsBtzyf/Chef-2-transformed.png",
     "recipes": [
       {
         "recipe_name": "Chhater Jhaal",
@@ -64,7 +64,7 @@
     "name": "Faisal Ahmed",
     "years_of_experience": 5,
     "bio": "Faisal Ahmed is a seasoned culinary professional with over 5 years of experience. He has honed his skills in diverse culinary environments, mastering both traditional and contemporary Bengali cuisine. Faisal is deeply committed to delivering exceptional flavors that resonate with Bengali food enthusiasts.",
-    "image_url": "",
+    "image_url": "https://i.ibb.co/Xs39Hts/chef-3jpg-transformed.png",
     "recipes": [
       {
         "recipe_name": "Chicken Shorshe Jhaal",
@@ -91,10 +91,10 @@
   },
   {
     "id": 4,
-    "name": "Ayesha Rahman",
+    "name": "Walid Rahman",
     "years_of_experience": 3,
-    "bio": "Ayesha Rahman is a young chef who is passionate about bringing modern twists to traditional Bengali cuisine. She is also a social media influencer, and her recipes have been featured in several popular publications.",
-    "image_url": "",
+    "bio": "Walid Rahman is a young chef who is passionate about bringing modern twists to traditional Bengali cuisine. She is also a social media influencer, and her recipes have been featured in several popular publications.",
+    "image_url": "https://i.ibb.co/pQ88Lfp/chef-4-transformed.png",
     "recipes": [
       {
         "recipe_name": "Chicken Shorshe Jhaal",
@@ -124,7 +124,7 @@
     "name": "Rahul Das",
     "years_of_experience": 2,
     "bio": "Rahul Das is a recent culinary school graduate who is eager to share his love of Bengali food with the world. He is also a food blogger, and his recipes have been featured on several popular websites.",
-    "image_url": "",
+    "image_url": "https://i.ibb.co/zhp8Jy8/chef-5-transformed.png",
     "recipes": [
       {
         "recipe_name": "Rannagharer Mutton Curry",
@@ -151,10 +151,10 @@
   },
   {
     "id": 6,
-    "name": "Taslima Khatun",
+    "name": "Tahsin Rahman",
     "years_of_experience": 1,
-    "bio": "Taslima Khatun is a home cook who has quickly become a popular figure on social media for her delicious and authentic Bengali recipes. She is also a passionate advocate for cooking with fresh, seasonal ingredients.",
-    "image_url": "",
+    "bio": "Tahsin Rahman is a home cook who has quickly become a popular figure on social media for her delicious and authentic Bengali recipes. She is also a passionate advocate for cooking with fresh, seasonal ingredients.",
+    "image_url": "https://i.ibb.co/rQH2spV/chef-6-transformed.png",
     "recipes": [
       {
         "recipe_name": "Aloo Posto",
