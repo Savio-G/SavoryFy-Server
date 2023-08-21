@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Rakibul Hasan",
+    "years_of_experience": 10,
+    "bio": "Rakibul Hasan is a renowned Bengali chef who has been cooking for over 10 years. He is known for his innovative take on traditional Bengali cuisine. He is also a passionate advocate for sustainable food practices.",
+    "image_url": "",
+    "recipes": [
+      {
+        "recipe_name": "Pitha Jalebi",
+        "ingredients": "Flour, Water, Sugar, Yeast",
+        "cooking_time": "30 minutes",
+        "cooking_method": "Deep fry",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Aloo Dum",
+        "ingredients": "Potatoes, Onions, Tomatoes, Spices",
+        "cooking_time": "1 hour",
+        "cooking_method": "Simmer",
+        "rating": 4.0
+      },
+      {
+        "recipe_name": "Mutton Biryani",
+        "ingredients": "Mutton, Rice, Spices",
+        "cooking_time": "2 hours",
+        "cooking_method": "Bake",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Sumaiya Akhter",
+    "years_of_experience": 7,
+    "bio": "Sumaiya Akhter is a rising star in the Bengali culinary scene. She is known for her creative and flavorful dishes, which often incorporate traditional Bengali ingredients with modern techniques. She is also a strong advocate for gender equality in the kitchen.",
+    "image_url": "",
+    "recipes": [
+      {
+        "recipe_name": "Chhater Jhaal",
+        "ingredients": "Fish, Green chilies, Cilantro, Spices",
+        "cooking_time": "30 minutes",
+        "cooking_method": "Steam",
+        "rating": 4.0
+      },
+      {
+        "recipe_name": "Bhetki Paturi",
+        "ingredients": "Bhetki fish, Patra, Spices",
+        "cooking_time": "1 hour",
+        "cooking_method": "Steam",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Ilish Maachher Paturi",
+        "ingredients": "Ilish fish, Patra, Spices",
+        "cooking_time": "1 hour",
+        "cooking_method": "Steam",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Faisal Ahmed",
+    "years_of_experience": 5,
+    "bio": "Faisal Ahmed is a seasoned culinary professional with over 5 years of experience. He has honed his skills in diverse culinary environments, mastering both traditional and contemporary Bengali cuisine. Faisal is deeply committed to delivering exceptional flavors that resonate with Bengali food enthusiasts.",
+    "image_url": "",
+    "recipes": [
+      {
+        "recipe_name": "Chicken Shorshe Jhaal",
+        "ingredients": "Chicken, Green chilies, Garlic, Cilantro, Spices",
+        "cooking_time": "30 minutes",
+        "cooking_method": "Saute",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Beef Bhuna",
+        "ingredients": "Beef, Onions, Tomatoes, Spices",
+        "cooking_time": "1 hour",
+        "cooking_method": "Simmer",
+        "rating": 4.0
+      },
+      {
+        "recipe_name": "Palak Paneer",
+        "ingredients": "Spinach, Paneer cheese, Spices",
+        "cooking_time": "30 minutes",
+        "cooking_method": "Saute",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Ayesha Rahman",
+    "years_of_experience": 3,
+    "bio": "Ayesha Rahman is a young chef who is passionate about bringing modern twists to traditional Bengali cuisine. She is also a social media influencer, and her recipes have been featured in several popular publications.",
+    "image_url": "",
+    "recipes": [
+      {
+        "recipe_name": "Chicken Shorshe Jhaal",
+        "ingredients": "Chicken, Green chilies, Garlic, Cilantro, Spices",
+        "cooking_time": "30 minutes",
+        "cooking_method": "Saute",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Beef Bhuna",
+        "ingredients": "Beef, Onions, Tomatoes, Spices",
+        "cooking_time": "1 hour",
+        "cooking_method": "Simmer",
+        "rating": 4.0
+      },
+      {
+        "recipe_name": "Palak Paneer",
+        "ingredients": "Spinach, Paneer cheese, Spices",
+        "cooking_time": "30 minutes",
+        "cooking_method": "Saute",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Rahul Das",
+    "years_of_experience": 2,
+    "bio": "Rahul Das is a recent culinary school graduate who is eager to share his love of Bengali food with the world. He is also a food blogger, and his recipes have been featured on several popular websites.",
+    "image_url": "",
+    "recipes": [
+      {
+        "recipe_name": "Rannagharer Mutton Curry",
+        "ingredients": "Mutton, Onions, Tomatoes, Spices",
+        "cooking_time": "2 hours",
+        "cooking_method": "Simmer",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Kasha Mangsho",
+        "ingredients": "Fish, Onions, Tomatoes, Spices",
+        "cooking_time": "1 hour",
+        "cooking_method": "Simmer",
+        "rating": 4.0
+      },
+      {
+        "recipe_name": "Dum Aloo",
+        "ingredients": "Potatoes, Onions, Tomatoes, Spices",
+        "cooking_time": "1 hour",
+        "cooking_method": "Simmer",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Taslima Khatun",
+    "years_of_experience": 1,
+    "bio": "Taslima Khatun is a home cook who has quickly become a popular figure on social media for her delicious and authentic Bengali recipes. She is also a passionate advocate for cooking with fresh, seasonal ingredients.",
+    "image_url": "",
+    "recipes": [
+      {
+        "recipe_name": "Aloo Posto",
+        "ingredients": "Potatoes, Poppy seeds, Spices",
+        "cooking_time": "30 minutes",
+        "cooking_method": "Simmer",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Morog Polao",
+        "ingredients": "Chicken, Rice, Spices",
+        "cooking_time": "1 hour",
+        "cooking_method": "Bake",
+        "rating": 4.0
+      },
+      {
+        "recipe_name": "Jhaal Mudi",
+        "ingredients": "Rice, Chili powder, Salt",
+        "cooking_time": "15 minutes",
+        "cooking_method": "Fry",
+        "rating": 5.0
+      }
+    ]
+  }
+]

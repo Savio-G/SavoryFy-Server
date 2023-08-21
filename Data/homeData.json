@@ -2,16 +2,18 @@
   "chef_image_home": "https://i.ibb.co/TrdwBqc/maks-styazhkin-ZDJ8kkkd7-RY-unsplash-transformed.png",
   "recipes": [
     {
-      "image": "https://i.ibb.co/wCWxPF9/jaikishan-patel-uwu2-ZLDm-X8k-unsplash.jpg",
+      "image": "https://i.ibb.co/v4Bq2J6/jaikishan-patel-uwu2-ZLDm-X8k-unsplash.jpg",
       "name": "Rasgulla",
-      "description": "Rasgulla is a beloved Bengali dessert...",
-      "cookingTime": "1 hour"
+      "description": "Rasgulla is a beloved Bengali dessert known for its spongy texture and delicate sweetness. Made from fresh paneer balls, these dumplings are cooked in sugar syrup until they absorb the sweet goodness. A delightful treat for any occasion..",
+      "cookingTime": "1 hour",
+      "category": "Dessert"
     },
     {
       "image": "https://i.ibb.co/ZB4P5B7/ellie-ellien-kdfv-Yw-FHZk-E-unsplash.jpg",
       "name": "Mishti Doi",
-      "description": "Mishti Doi, meaning 'sweet yogurt,'...",
-      "cookingTime": "15 minutes (plus fermentation time)"
+      "description": "Mishti Doi, meaning 'sweet yogurt,' is a creamy and luscious dessert hailing from Bengal, India. Prepared by caramelizing sugar and then combining it with thickened milk, this dessert is left to ferment, developing its distinct flavor and texture. A traditional delight with a unique twist.",
+      "cookingTime": "15 minutes (plus fermentation time)",
+      "category": "Dessert"
     }
   ]
 }
