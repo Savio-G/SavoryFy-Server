@@ -2,28 +2,28 @@
   {
     "id": 1,
     "name": "Rakibul Hasan",
-    "years_of_experience": 10,
+    "years_of_experience": "10 years",
     "bio": "Rakibul Hasan is a renowned Bengali chef who has been cooking for over 10 years. He is known for his innovative take on traditional Bengali cuisine. He is also a passionate advocate for sustainable food practices.",
     "image": "https://i.ibb.co/QjbvpjQ/chef-1-transformed.png",
     "noOfRecipes": 5,
     "recipes": [
       {
         "recipe_name": "Pitha Jalebi",
-        "ingredients": "Flour, Water, Sugar, Yeast",
+        "ingredients": "Flour, Water, Sugar, Yeast, Caramel",
         "cooking_time": "30 minutes",
         "cooking_method": "Deep fry",
         "rating": 4.5
       },
       {
         "recipe_name": "Aloo Dum",
-        "ingredients": "Potatoes, Onions, Tomatoes, Spices",
+        "ingredients": "Potatoes, Onions, Tomatoes, Spices, Chilli",
         "cooking_time": "1 hour",
         "cooking_method": "Simmer",
         "rating": 4.0
       },
       {
         "recipe_name": "Mutton Biryani",
-        "ingredients": "Mutton, Rice, Spices",
+        "ingredients": "Mutton, Rice, Spices, Potato, Water",
         "cooking_time": "2 hours",
         "cooking_method": "Bake",
         "rating": 5.0
@@ -33,28 +33,28 @@
   {
     "id": 2,
     "name": "Terrance Costa",
-    "years_of_experience": 7,
-    "bio": "Terrance Costa is a rising star in the Bengali culinary scene. She is known for her creative and flavorful dishes, which often incorporate traditional Bengali ingredients with modern techniques. She is also a strong advocate for gender equality in the kitchen.",
+    "years_of_experience": "2 years",
+    "bio": "Terrance Costa is a rising star in the Bengali culinary scene. He is known for her creative and flavorful dishes, which often incorporate traditional Bengali ingredients with modern techniques. He is also a strong advocate for gender equality in the kitchen.",
     "noOfRecipes": 8,
     "image": "https://i.ibb.co/SsBtzyf/Chef-2-transformed.png",
     "recipes": [
       {
         "recipe_name": "Chhater Jhaal",
-        "ingredients": "Fish, Green chilies, Cilantro, Spices",
+        "ingredients": "Fish, Green chilies, Cilantro, Spices, Curd",
         "cooking_time": "30 minutes",
         "cooking_method": "Steam",
         "rating": 4.0
       },
       {
         "recipe_name": "Bhetki Paturi",
-        "ingredients": "Bhetki fish, Patra, Spices",
+        "ingredients": "Bhetki fish, Patra, Spices, Sauce, Water",
         "cooking_time": "1 hour",
         "cooking_method": "Steam",
         "rating": 4.5
       },
       {
-        "recipe_name": "Ilish Maachher Paturi",
-        "ingredients": "Ilish fish, Patra, Spices",
+        "recipe_name": "Ilisher Paturi",
+        "ingredients": "Ilish fish, Patra, Spices, Yoghurt, Oil",
         "cooking_time": "1 hour",
         "cooking_method": "Steam",
         "rating": 5.0
@@ -64,13 +64,13 @@
   {
     "id": 3,
     "name": "Faisal Ahmed",
-    "years_of_experience": 5,
+    "years_of_experience": "4 years",
     "bio": "Faisal Ahmed is a seasoned culinary professional with over 5 years of experience. He has honed his skills in diverse culinary environments, mastering both traditional and contemporary Bengali cuisine. Faisal is deeply committed to delivering exceptional flavors that resonate with Bengali food enthusiasts.",
     "image": "https://i.ibb.co/Xs39Hts/chef-3jpg-transformed.png",
     "noOfRecipes": 7,
     "recipes": [
       {
-        "recipe_name": "Chicken Shorshe Jhaal",
+        "recipe_name": "Chicken Sizzling",
         "ingredients": "Chicken, Green chilies, Garlic, Cilantro, Spices",
         "cooking_time": "30 minutes",
         "cooking_method": "Saute",
@@ -78,14 +78,14 @@
       },
       {
         "recipe_name": "Beef Bhuna",
-        "ingredients": "Beef, Onions, Tomatoes, Spices",
+        "ingredients": "Beef, Onions, Tomatoes, Spices, Water",
         "cooking_time": "1 hour",
         "cooking_method": "Simmer",
         "rating": 4.0
       },
       {
         "recipe_name": "Palak Paneer",
-        "ingredients": "Spinach, Paneer cheese, Spices",
+        "ingredients": "Spinach, Paneer cheese, Spices, Milk, Onion",
         "cooking_time": "30 minutes",
         "cooking_method": "Saute",
         "rating": 5.0
@@ -95,13 +95,13 @@
   {
     "id": 4,
     "name": "Walid Rahman",
-    "years_of_experience": 3,
-    "bio": "Walid Rahman is a young chef who is passionate about bringing modern twists to traditional Bengali cuisine. She is also a social media influencer, and her recipes have been featured in several popular publications.",
+    "years_of_experience": "5 years",
+    "bio": "Walid Rahman is a young chef who is passionate about bringing modern twists to traditional Bengali cuisine. He is also a social media influencer, and her recipes have been featured in several popular publications.",
     "image": "https://i.ibb.co/pQ88Lfp/chef-4-transformed.png",
     "noOfRecipes": 5,
     "recipes": [
       {
-        "recipe_name": "Chicken Shorshe Jhaal",
+        "recipe_name": "Chicken Jhaal",
         "ingredients": "Chicken, Green chilies, Garlic, Cilantro, Spices",
         "cooking_time": "30 minutes",
         "cooking_method": "Saute",
@@ -109,14 +109,14 @@
       },
       {
         "recipe_name": "Beef Bhuna",
-        "ingredients": "Beef, Onions, Tomatoes, Spices",
+        "ingredients": "Beef, Onions, Tomatoes, Spices, Water",
         "cooking_time": "1 hour",
         "cooking_method": "Simmer",
         "rating": 4.0
       },
       {
         "recipe_name": "Palak Paneer",
-        "ingredients": "Spinach, Paneer cheese, Spices",
+        "ingredients": "Spinach, Paneer cheese, Spices, Milk, Onion",
         "cooking_time": "30 minutes",
         "cooking_method": "Saute",
         "rating": 5.0
@@ -124,30 +124,30 @@
     ]
   },
   {
-    "id": 3,
+    "id": 5,
     "name": "Rahul Das",
-    "years_of_experience": 2,
+    "years_of_experience": "2 years",
     "bio": "Rahul Das is a recent culinary school graduate who is eager to share his love of Bengali food with the world. He is also a food blogger, and his recipes have been featured on several popular websites.",
     "image": "https://i.ibb.co/zhp8Jy8/chef-5-transformed.png",
     "noOfRecipes": 5,
     "recipes": [
       {
-        "recipe_name": "Rannagharer Mutton Curry",
-        "ingredients": "Mutton, Onions, Tomatoes, Spices",
+        "recipe_name": "Mutton Curry",
+        "ingredients": "Mutton, Onions, Tomatoes, Spices, Curd",
         "cooking_time": "2 hours",
         "cooking_method": "Simmer",
         "rating": 4.5
       },
       {
         "recipe_name": "Kasha Mangsho",
-        "ingredients": "Fish, Onions, Tomatoes, Spices",
+        "ingredients": "Chicken, Onions, Tomatoes, Spices, Broath",
         "cooking_time": "1 hour",
         "cooking_method": "Simmer",
         "rating": 4.0
       },
       {
         "recipe_name": "Dum Aloo",
-        "ingredients": "Potatoes, Onions, Tomatoes, Spices",
+        "ingredients": "Potatoes, Onions, Tomatoes, Spices, Steam",
         "cooking_time": "1 hour",
         "cooking_method": "Simmer",
         "rating": 5.0
@@ -157,28 +157,28 @@
   {
     "id": 6,
     "name": "Tahsin Rahman",
-    "years_of_experience": 1,
-    "bio": "Tahsin Rahman is a home cook who has quickly become a popular figure on social media for her delicious and authentic Bengali recipes. She is also a passionate advocate for cooking with fresh, seasonal ingredients.",
+    "years_of_experience": "1 year",
+    "bio": "Tahsin Rahman is a home cook who has quickly become a popular figure on social media for her delicious and authentic Bengali recipes. He is also a passionate advocate for cooking with fresh, seasonal ingredients.",
     "image": "https://i.ibb.co/rQH2spV/chef-6-transformed.png",
     "noOfRecipes": 4,
     "recipes": [
       {
         "recipe_name": "Aloo Posto",
-        "ingredients": "Potatoes, Poppy seeds, Spices",
+        "ingredients": "Potatoes, Poppy seeds, Spices, Almonds, Malai",
         "cooking_time": "30 minutes",
         "cooking_method": "Simmer",
         "rating": 4.5
       },
       {
         "recipe_name": "Morog Polao",
-        "ingredients": "Chicken, Rice, Spices",
+        "ingredients": "Chicken, Rice, Spices, Oil, Onions",
         "cooking_time": "1 hour",
         "cooking_method": "Bake",
         "rating": 4.0
       },
       {
         "recipe_name": "Jhaal Mudi",
-        "ingredients": "Rice, Chili powder, Salt",
+        "ingredients": "Chili powder, Salt, Muri, Chanachur, Oil",
         "cooking_time": "15 minutes",
         "cooking_method": "Fry",
         "rating": 5.0
